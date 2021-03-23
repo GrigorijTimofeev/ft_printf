@@ -24,7 +24,7 @@ Type
 ```
 make
 ```
-in terminal
+in terminal and then add the library(libftprintf.a) to your project
 
 # Usage example
 
