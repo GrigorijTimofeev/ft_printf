@@ -18,6 +18,14 @@ And the following flags:
 - .
 - *(asterisk)
 
+# Compiling
+
+Type 
+```
+make
+```
+in terminal
+
 # Usage example
 
 ```
