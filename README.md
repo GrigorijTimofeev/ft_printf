@@ -13,10 +13,10 @@ My function mimic the following printf conversions:
 - %
 
 And the following flags:
-- - (minus)
+- -(minus)
 - 0
 - .
-- * (asterisk)
+- *(asterisk)
 
 # Usage example
 
